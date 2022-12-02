@@ -1,7 +1,7 @@
 #include <iostream>
 #include "lib.h"
 using namespace std;
-bool  umeroprimo (int n) {
+bool  numeroprimo (int n) {
 int i=1, x;
   bool risultato;
   if (n>1) {

@@ -1,9 +1,9 @@
 #include <iostream>
 #include "lib.h"
 int main(){
-  int h;
-  std::cin>>h;
-  if (numeroprimo(h) == 0){
+  int a;
+  std::cin>>a;
+  if (numeroprimo(a) == 0){
   std::cout<<"numero primo"<<
     std::endl;
   }
